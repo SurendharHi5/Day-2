@@ -1,0 +1,11 @@
+Difference between document & window object
+
+Document
+1.It represents any HTML document
+2.It is the object of window property
+3.The document is part of BOM and DOM
+
+Window
+1.It represents a browser window
+2.It is the object of the browser
+3.The window is part of BOM
